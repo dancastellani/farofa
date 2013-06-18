@@ -9,7 +9,7 @@ Commands:
 * farofa
 	* Show Farofa's wesite to see documentation.
 
-* (cs) countrevisions(path) 
+* (cr) countrevisions(path) 
 	* Receives a path to a svn repository
 	* Answer the number of commits in this path on the repository
 
